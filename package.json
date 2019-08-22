@@ -1,0 +1,24 @@
+{
+  "name": "MagicSchools-SQL-EXPRESS",
+  "version": "1.0.0",
+  "description": "",
+  "main": "magicschools.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fred1525/MagicSchools-SQL-EXPRESS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fred1525/MagicSchools-SQL-EXPRESS/issues"
+  },
+  "homepage": "https://github.com/fred1525/MagicSchools-SQL-EXPRESS#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mysql": "^2.17.1"
+  }
+}
